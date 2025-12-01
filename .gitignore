@@ -1,0 +1,14 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+
+.idea/
+CodingFactory9.iml.iml
+**/*.log
+
+
+### Mac OS ###
+.DS_Store
