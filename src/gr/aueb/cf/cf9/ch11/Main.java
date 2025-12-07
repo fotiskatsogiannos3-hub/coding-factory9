@@ -8,7 +8,7 @@ public class Main {
         Product juice = new Product(2L, "Juice A", "Orange Juice", 2.5, 1, false);
 
 
-        Customer customer = new Customer()
+        Customer customer = new Customer();
 
 
 
